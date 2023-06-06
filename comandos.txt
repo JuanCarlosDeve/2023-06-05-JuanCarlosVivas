@@ -1,0 +1,43 @@
+cd '/home/juan/Desktop/DEveloper/2023-06-05-JuanCarlosVivas' 
+ 1045  git init
+ 1046  git remote add origin git@github.com:JuanCarlosDeve/2023-06-05-JuanCarlosVivas.git
+ 1047  git remote -v
+ 1048  touch comandos.txt main.js index.html
+ 1049  git status
+ 1050  git add .
+ 1051  git commit -m "commit 01 de JUANCARLOSVIVAS"
+ 1052  git push origin main
+ 1053  git branch feature
+ 1054  git checkout feature
+ 1055  mkdir Hardware Software SeguridadInformatica
+ 1056  cd /Harware
+ 1057  cd ./Hardware/
+ 1058  touche resumen.txt.
+ 1059  touch resumen.txt.
+ 1060  cd ./Sofware
+ 1061  cd '/home/juan/Desktop/DEveloper/2023-06-05-JuanCarlosVivas/Software' 
+ 1062  touch resumen.txt.
+ 1063  cd '/home/juan/Desktop/DEveloper/2023-06-05-JuanCarlosVivas/SeguridadInformatica' 
+ 1064  touch resumen.txt.
+ 1065  git status
+ 1066  git remote -v
+ 1067  git push feature
+ 1068  cd '/home/juan/Desktop/DEveloper/2023-06-05-JuanCarlosVivas' 
+ 1069  git status
+ 1070  git push
+ 1071  git push --set-upstream origin feature
+ 1072  git remote -v
+ 1073  git status
+ 1074  git add .
+ 1075  git status
+ 1076  git commit -m "commit 02 JUANCARLOSVIVAS" 
+ 1077  git push feature
+ 1078  git push origin feature
+ 1079  git chekout main
+ 1080  git checkout main
+ 1081  mv main.js resumenHardware.txt
+ 1082  mv index.html resumenSoftware.txt
+ 1083  history
+juan@juan-Inspiron-3501:~/Desktop/DEveloper/2023-06-05-JuanCarlosVivas$ 
+
+
